@@ -39,3 +39,65 @@
 //     console.log(a);
 //     a++;
 // }while(a<10);
+
+//for each prefers array , string
+// let arr=[1,2,3];
+// for(let i of arr)
+// {
+//     console.log(i);
+// }
+// let s="cam";
+// for(let i of s)
+// {
+//     console.log(i);
+// }
+// const  map=new Map();
+// map.set('in',"india");
+// map.set('fr',"france");
+// for(const [key,value] of map)
+// {
+//     console.log(key,'->',value);
+// }
+
+
+//for in loop specially for object we can use it in array too but it works as index
+// const obj=
+// {
+//     nam:"cam",
+//     job:"software eng"
+// }
+
+// for(const key in obj)
+// {
+//     console.log(key,'=',obj[key]);
+// }
+
+// const arr=[1,2,3];
+// arr.forEach(
+//     function (val)
+//     {
+//         console.log(val);
+//     }
+
+// )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
